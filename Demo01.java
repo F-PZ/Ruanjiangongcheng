@@ -29,3 +29,4 @@ public class Demo01Test {
   System.out.println(Arrays.toString(arr));
  }
 }
+//测试用例12,6,4,8,3
